@@ -2,7 +2,7 @@
 // @name         Audio Solver
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
-// @description  Audio Solver, no es codigo abierto, perdon.
+// @description  Audio Solver, de primera calidad!!
 // @author       EeE
 // @match        *://*.englishlive.ef.com/*
 // @match        *://*.corporate.ef.com/*
